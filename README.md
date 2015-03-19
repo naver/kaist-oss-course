@@ -14,6 +14,13 @@
   만들 수 있는 역량을 기른다.
 
 ## Projects
-* Pinpoint: https://github.com/naver/pinpoint
-* XpressEngine: http://www.xpressengine.com/
-* Yobi: http://yobi.io/
+* Pinpoint
+    * 코드저장소: https://github.com/naver/pinpoint
+    * 소개: http://helloworld.naver.com/helloworld/1194202
+* XpressEngine
+    * 홈페이지: http://www.xpressengine.com/
+    * 코드저장소: https://github.com/xpressengine
+    * 체험하기: http://demo.xpressengine.com/
+* Yobi
+    * 코드저장소: https://github.com/naver/yobi
+    * 체험하기: http://yobi.io/
