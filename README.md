@@ -22,5 +22,7 @@
     * 코드저장소: https://github.com/xpressengine
     * 체험하기: http://demo.xpressengine.com/
 * Yobi
+    * 홈페이지: http://yobi.io
     * 코드저장소: https://github.com/naver/yobi
-    * 체험하기: http://yobi.io/
+    * 체험하기: http://demo.yobi.io/
+
