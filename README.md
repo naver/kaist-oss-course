@@ -13,6 +13,12 @@
 - 이 과목을 통하여 현업 개발에 필수적인 공유와 협업을 경험하고, 향후 스스로 오픈소스 SW 개발자 포트폴리오를
   만들 수 있는 역량을 기른다.
 
+## Quiz
+* https://github.com/hgarc014/git-game 프로젝트를 clone해서 문제를 풉니다.
+    * 문제 풀이에 필요한 내용은 Readme에 있습니다. 
+* 문제 풀이를 완료하면, **local repo의 .git 파일을 메일로 제출**합니다.
+    * 메일 제목: [KAIST OSS course] quiz - [이름]   
+
 ## Projects
 * Pinpoint
     * 코드저장소: https://github.com/naver/pinpoint
