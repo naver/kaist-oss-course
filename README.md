@@ -19,6 +19,14 @@
 * 문제 풀이를 완료하면, **local repo의 .git 파일을 메일로 제출**합니다.
     * 메일 제목: [KAIST OSS course] quiz - [이름]   
 
+## Wrapup
+* 일시: 6월 12일 (금) 오후 1시
+* 주제: Term Project로 수행한 OSS contribution
+* 방식: 각자 5분 이내의 lightning talk으로 발표
+    * 본인이 담당한 이슈에 대해 어떻게 접근하려고 했는지와 진행하면서 변경된 내용, 완료 상태(어떤 ending인지)에 대한 설명이 꼭 들어가있어야합니다.
+    * [Issues page](https://github.com/naver/kaist-oss-course/issues)에서 본인이 담당한 이슈에 최종 상태를 댓글로 남겨주세요.
+    * 가능한한 별도의 발표자료는 사용하지 않는 것을 추천합니다.
+
 ## Projects
 * Pinpoint
     * 코드저장소: https://github.com/naver/pinpoint
